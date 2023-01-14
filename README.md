@@ -1,5 +1,6 @@
 Hello!
-- I am a self-taught Frontend Developer with 3 years of experience in developing web applications using Html/CSS, JavaScript and React. 
+- I am a self-taught Frontend Developer with 3 years of experience.
+- I develop web applications using HTML/CSS, JavaScript and React. 
 - I'm currently learning TypeScript and Next.js to expand my skillset. 
 - I'm highly passionate about programming and always strive to improve my skills. 
 
