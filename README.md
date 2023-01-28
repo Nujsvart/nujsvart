@@ -16,7 +16,7 @@ I am always open to new challenges and opportunities to learn and grow as a deve
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esracnryhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esracnryhn" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/nujsvart" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="nujsvart" height="30" width="30" /></a>
+  <a href="https://www.codewars.com/users/nujsvart" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="nujsvart" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/nujsvart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nujsvart" height="30" width="40" /></a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nujsvart&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="nujsvart" /></p>
