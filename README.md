@@ -1,10 +1,6 @@
-<h3 align="center">Hello World!</h3>
-<p align="left">I am a self-taught Front End Developer with a passion for creating intuitive and visually appealing user interfaces. I am constantly striving to improve my skills and stay up-to-date with the latest technologies and industry best practices. 
+<h3 align="left">Hello World!</h3>
+<p align="left">Passionate Front-End Developer | Crafting seamless user interfaces | Proficient CSS, JavaScript, React, Next.js, Node.js, and MongoDB | Diving into the world of Blockchain Development | Currently learning Solidity </p>
 
-I have experience with a variety of front-end technologies such as HTML, CSS, JavaScript, and React. I am also familiar with back-end technologies such as Node.js and MongoDB.
-
-I am always open to new challenges and opportunities to learn and grow as a developer. In my free time, I enjoy building my own personal projects to expand my knowledge and skills.
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +12,6 @@ I am always open to new challenges and opportunities to learn and grow as a deve
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esracnryhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esracnryhn" height="30" width="40" /></a>
-  <a href="https://www.frontendmentor.io/profile/Nujsvart" target="blank"> <img align="center" src="https://scontent.fyei6-5.fna.fbcdn.net/v/t39.30808-6/304702060_474844821306824_3479081658794433305_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=PP98EqPpopwAX_u6bNY&_nc_ht=scontent.fyei6-5.fna&oh=00_AfD1mYyA6mLxTbNyIQ_Q3FVll4vS_XkBV6_7xRreNO8TjQ&oe=63DBC16C" height="30" width="30"/> </a>
 <a href="https://www.codewars.com/users/Nujsvart" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="nujsvart" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/nujsvart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nujsvart" height="30" width="40" /></a>
 </p>
